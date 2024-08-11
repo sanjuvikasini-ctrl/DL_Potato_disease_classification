@@ -1,5 +1,6 @@
 # Potato_disease_classification
-The project aims to classify the input leaf image into one of the 3 classes: Healthy, late blight and early blight
+The project aims to classify the input leaf image into one of the 3 classes: Healthy, late blight and early blight.
+
 The following steps were followed :
 1. Importing the dataset into TensorFlow object
 2. Visualization of the dataset
